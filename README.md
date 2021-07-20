@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @JonathanLipsky
+### Jonathan Lipsky
+Current Position: Software Engineer at IBM
